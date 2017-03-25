@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  width: 95vw;
+  margin: 3% auto;
+  background-image: url(../images/fondo.png);
+  background-attachment: fixed;
+  border: solid 5px blue;
+  height: 90vh;
+}
+
+.main-container{
+  width: 100%;
+  padding: 2%;
+}
+
+h1{
+  text-align: center;
+  color: #0a1cf1;
+}
